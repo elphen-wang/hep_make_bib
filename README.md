@@ -43,9 +43,14 @@ Index.  2 , ---------->title:  Constraints on the solar $\Delta m^2$ using Daya 
 
 ```
 
-For now, you can copy the corresponding bib into your document.  As you may have noticed, the usage of the key words is exactly the same as the inspire-hep. Don't explain much, please see the picture below. ![example](https://github.com/ElonSteveWang/hep_make_bib/blob/master/example.png) Three hyperlinks are inserted into the highlighted blue text to the home pages of the corresponding online journal, ArXiv and INSPIRE-HEP.
+For now, you can copy the corresponding bib into your document.  As you may have noticed, the usage of the key words is exactly the same as the inspire-hep. Don't explain much, please see the picture below. ![example](https://github.com/ElonSteveWang/hep_make_bib/blob/master/example.png) Three hyperlinks are inserted in the highlighted blue text to the corresponding online journal, arxiv and inspire-hep home pages of the article, respectively.
 
 
 # License
 
  * [hep_make_bib](https://github.com/ElonSteveWang/hep_make_bib) is available under the terms of the [GNU General Public License, version 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+ 
+ The project can also be used on other websites, such as Inspire-HEP, with a few changes. If someone based on this work for the second development, please indicate the source, thank you!
+
+ 
+ 
