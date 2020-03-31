@@ -13,7 +13,7 @@ print("Please input your keyword...");
 keyword=input();
 keyword=keyword.replace(' ','+')
 
-#keyword="damping+signature+and+jhep";
+#keyword="juno+PRD+neutrino+2019";
 
 print("Your are searching: ",keyword);
 html = urlopen("http://old.inspirehep.net/search?ln=zh_CN&p="+keyword+"&of=hb&action_search=%E6%90%9C%E5%AF%BB&sf=earliestdate&so=d");
