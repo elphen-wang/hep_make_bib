@@ -16,7 +16,7 @@ keyword=keyword.replace(' ','+')
 #keyword="damping+signature+and+jhep";
 
 print("Your are searching: ",keyword);
-html = urlopen("http://inspirehep.net/search?ln=zh_CN&p="+keyword+"&of=hb&action_search=%E6%90%9C%E5%AF%BB&sf=earliestdate&so=d");
+html = urlopen("http://old.inspirehep.net/search?ln=zh_CN&p="+keyword+"&of=hb&action_search=%E6%90%9C%E5%AF%BB&sf=earliestdate&so=d");
 bsObj = BeautifulSoup(html, "lxml")
 #print(bsObj)
 
