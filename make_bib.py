@@ -2,7 +2,6 @@ from urllib.request import urlretrieve
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import numpy as np
-import pandas as np
 import urllib
 import re
 import os
